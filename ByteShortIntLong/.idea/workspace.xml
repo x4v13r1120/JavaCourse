@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db3c7e1e-b82a-4190-8eb2-12c9c0eaaf8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +28,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -74,33 +76,62 @@
       <updated>1576526388484</updated>
       <workItem from="1576526390057" duration="23000" />
       <workItem from="1576530100157" duration="132000" />
-      <workItem from="1576530243552" duration="1120000" />
+      <workItem from="1576530243552" duration="1673000" />
+      <workItem from="1576548058362" duration="767000" />
     </task>
+    <task id="LOCAL-00001" summary="Primitive data types">
+      <created>1576531429893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576531429893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primitive data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primitive data types" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="27" key="CommitChangelistDialog2" timestamp="1576531416513">
+    <state x="672" y="107" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1576548370153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="524" y="27" key="CommitChangelistDialog2/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576531416513" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1576530918537">
+    <state x="672" y="107" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548370153" />
+    <state x="524" y="27" key="CommitChangelistDialog2" timestamp="1576531428670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576530918537" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1576530918537">
+    <state x="524" y="27" key="CommitChangelistDialog2/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576531428670" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1576548861965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576530918537" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1576530918537">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548861965" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1576548861965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576530918537" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1576530918537">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548861965" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1576548861965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576530918537" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548861965" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1576548861965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548861965" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1576548848230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548848230" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1576531448019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576531448019" />
+    <state x="636" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576548054065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/305.-768.1280.728@0.0.1920.1040" timestamp="1576548054065" />
   </component>
 </project>
