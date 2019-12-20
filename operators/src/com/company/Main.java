@@ -52,6 +52,15 @@ public class Main {
             //we should us a code block here to utilize more then one line without curly brackets u can only use one line after the if-then statement
         }
 
+        int topScore = 80;
+        if(topScore < 100){
+            System.out.println("You got the high score!");
+        }
+
+        int secondTopScore = 60;
+        if (topScore > secondTopScore && topScore <100){
+            System.out.println("Greater than second top score and less than 100");
+        }
 
 
     }
