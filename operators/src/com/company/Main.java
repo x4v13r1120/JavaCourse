@@ -45,6 +45,13 @@ public class Main {
         result -=2; //10-2=8
         System.out.println("10 - 8 =" + result);
 
+        boolean isAlien = false;
+        if (!isAlien) { // can write !isAlien to simplify isAlien == false
+            System.out.println("It is not an alien!");//semicolon should finish after no semicolon on the if line
+            System.out.println("and I am scared of aliens");
+            //we should us a code block here to utilize more then one line without curly brackets u can only use one line after the if-then statement
+        }
+
 
 
     }
